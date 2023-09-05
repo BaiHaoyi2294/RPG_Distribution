@@ -1,0 +1,2 @@
+.rar filter=lfs diff=lfs merge=lfs -text
+D:/Proj_Distribution/RPG_Distribution/Ver0.0Dist.rar filter=lfs diff=lfs merge=lfs -text
